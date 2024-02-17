@@ -1,7 +1,3 @@
-@font-face {
-    font-family: 'SJxingkai-C-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/1779587460/font@main/SJxingkai-C-Regular.woff2');
-}
 #post a {
     color: #EE82EE	 !important
 }
@@ -69,8 +65,7 @@ h6:before {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     border-top-left-radius: 10px;
-    border-top-right-radius: 10px；
-    font-family: 'SJxingkai-C-Regular'
+    border-top-right-radius: 10px
 }
 
 .author-info__name {
